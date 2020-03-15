@@ -1,4 +1,7 @@
 Rencana Konten :
 - Konten 1
+  - Detail konten 11
 - Konten 2
+  - Detail Konten 2
+  - Detail Konten 2
 - Konten 3
